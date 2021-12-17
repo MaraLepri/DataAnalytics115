@@ -6,6 +6,7 @@ https://www.huduser.gov/portal/datasets/ahar/2020-ahar-part-1-pit-estimates-of-h
 This data was very, very clean when it was posted on the HUD website. I did not run into problems with duplicate entries or missing data or entries that didn't make sense. The only thing I did was remove some of the colums to make the data easier to look at for myself. There were several columns on the original dividing entries by age groups per ethnic group, by veteran status, etc, that I did not copy into my data here.
 
 Here are the columns I did keep:
+
  [1] "CoC Number"                                                        
  [2] "CoC Name"                                                          
  [3] "Overall Homeless, 2020"                                            
